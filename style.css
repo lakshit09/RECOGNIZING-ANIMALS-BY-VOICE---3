@@ -1,0 +1,46 @@
+body
+{
+    font-family: 'Festive', cursive;
+    background: lightblue;
+}
+
+.header_div
+{
+    background: white;
+    color: rebeccapurple;
+}
+
+.header_div p
+{font-family: 'Akaya Telivigala', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Festive', cursive;
+    font-family: 'Lobster', cursive;
+    color:#f70505 ;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Akaya Telivigala', cursive;
+font-family: 'Festive', cursive;
+font-family: 'Lobster', cursive;
+margin-top:30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color:#ff9900 ;
+    bottom: 15px;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3px;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
